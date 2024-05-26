@@ -1,2 +1,2 @@
 # Stopwatch
-https://fantastic-mooncake-a4bd80.netlify.app
+https://silver-zabaione-c1402c.netlify.app/
