@@ -1,0 +1,83 @@
+body{
+    background-image:url("img/cbacd5fdcda1f81b44b96e8a670789dc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 600px;
+    height: 400px;
+    background-color: rgb(205, 127, 50);
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+   
+    /* background-color: aqua; */
+    /* border: 2px, solid color(white red green blue); */
+}
+.header{
+    width: 600px;
+    height: 100px;
+    font-size: 80px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* color: aliceblue; */
+    /* background-color: blueviolet; */
+}
+.time{
+    width: 600px;
+    height: 160px;
+    font-size: 30px;
+    justify-content: space-around;
+    background-color: rgb(77, 80, 78);
+    text-align: center;
+    line-height: 150px;
+    color: aliceblue;
+    /* display: block; */
+}
+.btn{
+    width: 600px;
+    height: 50px;
+    line-height:100px;
+    /* height: 30px; */
+    /* background-color: rgb(84, 48, 0); */
+    color: aliceblue;
+    /* line-height: 30px; */
+    /* justify-content: center; */
+    text-align: center;
+    /* justify-content: center; */
+    /* vertical-align:bottom; */
+}
+/* .btn button{ */
+    /* margin-top: 5px; */
+    /* border-radius: 0px; */
+    /* } */
+    .start{
+        background-color: green;
+        color: aliceblue;
+        border-radius: 10px;
+        border: none;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 30px;
+        cursor: pointer;
+    }
+    .stop{
+        background-color: rgb(167, 2, 2);
+        color: aliceblue;
+        border: none;
+        border-radius: 10px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 30px;
+        cursor: pointer;
+    }
+    .reset{
+        background-color: rgb(4, 4, 120);
+        border: none;
+        color: aliceblue;
+        font-size: 30px;
+        border-radius: 10px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        cursor: pointer;
+}
+/* #stopwatch h1{
+    font-size: 50px;
+} */
