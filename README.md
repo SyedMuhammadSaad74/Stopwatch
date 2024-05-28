@@ -1,2 +1,2 @@
 # Stopwatch
-https://silver-zabaione-c1402c.netlify.app/
+https://glowing-elf-47b6b4.netlify.app
